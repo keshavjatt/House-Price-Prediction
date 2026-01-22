@@ -44,4 +44,5 @@ This helps home buyers, sellers, and real estate agents with accurate price esti
 - git clone https://github.com/keshavjatt/House-Price-Prediction.git 
 - cd House-Price-Prediction
 - pip install -r requirements.txt
+- python main.py
 - python -m streamlit run app.py
